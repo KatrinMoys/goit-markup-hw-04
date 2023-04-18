@@ -511,19 +511,13 @@ body{
 /* Footer*/ 
 .footer-cont {
     display: flex;
-    align-items: baseline;
-    margin-right: 120px;
     gap: 120px;
+  }
 
-  }
-.footer-logo-cont {
-    width: 264px;
-    margin-left: 156px;
-  }
-  
 .logo-footer {
     display: inline-block;
     margin-bottom: 16px;
+    padding-top: 0;
   }
 .footer{
     background-color: #2E2F42;
