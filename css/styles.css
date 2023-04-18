@@ -512,12 +512,13 @@ body{
 .footer-cont {
     display: flex;
     align-items: baseline;
-    gap: 120px;
+
+    
   }
 .footer-logo-cont {
     width: 264px;
     margin-left: 156px;
-    margin-right: 0px;
+    margin-right: 120px;
   }
   
 .logo-footer {
