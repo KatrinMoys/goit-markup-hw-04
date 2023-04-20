@@ -43,17 +43,13 @@ body{
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
-    display: flex;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    margin-left: auto;
-
     margin-right: 76px;
     padding: 24px 0;
 }
 .container {
-    margin-top: 0;
     width: 1158px;
     margin-left: auto;
     margin-right: auto;
@@ -77,11 +73,9 @@ body{
 }
 .nav-link {
     color:#2E2F42;
-    font-family: 'Roboto', sans-serif;
-    font-style: normal;
     font-weight: 500;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     padding: 24px 0;
 }
@@ -182,10 +176,7 @@ body{
 }
 
 .feature {
-    margin-top: 0;
     padding: 120px 0 120px;
-    display: flex;
-    gap: 24;
 }
 .feature-title{
     margin-bottom: 8px;
@@ -225,7 +216,6 @@ body{
     margin-bottom: 0;
 }
 .work {
-    margin-top: 0;
     padding-bottom: 120px;
 }
 .work-list{
@@ -314,7 +304,7 @@ body{
 .section-list{
     font-weight: 500;
     font-size: 20px;
-    line-height: 24px;
+    line-height: 1.5;
 }
 .team{
     background-color:#F4F4FD;
@@ -465,7 +455,6 @@ body{
   }
 
 
-
  /* Portfolio */
  .filters-projects{
     padding: 96px 0 120px;
@@ -498,10 +487,8 @@ body{
  }
  .projects-text{
     margin-top: 8px;
-    padding-left: 16px;
  }
  .projects-item {
-    border: 1px solid #E7E9FC;
     max-width: 360px;
  }
 .projects-content{
@@ -559,10 +546,8 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-  
     width: 40px;
     height: 40px;
-  
     background-color: #4d5ae5;
     border-radius: 50%;
   }
