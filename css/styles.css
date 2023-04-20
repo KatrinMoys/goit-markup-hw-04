@@ -48,8 +48,9 @@ body{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     margin-left: auto;
-    padding: 24px 0;
+
     margin-right: 76px;
+    padding: 24px 0;
 }
 .container {
     margin-top: 0;
@@ -67,6 +68,9 @@ body{
 
 .studio {
    color:#2E2F42; 
+}
+.navigation-item{
+    padding: 24px 0;
 }
 .link {
     text-decoration: none;
@@ -91,9 +95,7 @@ body{
     gap: 40px;
 }
 .navigation {
-    padding: 24px 0;
     align-items: center;
-    margin: auto;
     display: flex;
   }
 .current {
