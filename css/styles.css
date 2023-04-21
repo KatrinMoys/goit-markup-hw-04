@@ -396,7 +396,6 @@ body{
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-  
     color:#2e2f42;
   }
   
@@ -456,10 +455,6 @@ body{
                0px 1px 1px rgba(46, 47, 66, 0.16),
                0px 2px 1px rgba(46, 47, 66, 0.08); 
 } 
- .projects-title{
-    padding-left: 16px;
-    margin-bottom: 8px;
- }
  .projects-item {
     max-width: 360px;
  }
